@@ -9,6 +9,10 @@ simple minimalistic image viewer in c with x11 and ciaro
 [Cairo](cairographics.org) - Cairo is implemented as a library written in the C programming language, but bindings are available for several different programming languages.Cairo is a 2D graphics library with support for multiple output devices. Currently supported output targets include the X Window System (via both Xlib and XCB), Quartz, Win32, image buffers, PostScript, PDF, and SVG file output. Experimental backends include OpenGL, BeOS, OS/2, and DirectFB.
 Cairo is designed to produce consistent output on all output media while taking advantage of display hardware acceleration when available (eg. through the X Render Extension).
 
+[imlib2](https://docs.enlightenment.org/api/imlib2/html/)- Imlib 2 can run without a display, so it can be easily used for background image processing for web sites or servers - it only requires the X libraries to be installed - that is all - it does not require an XServer to run unless you wish to display images.
+
+The interface is simple - once you get used to it, the functions do exactly what they say they do.
+
 # GOAL 
  simple image viwer in c which is quite simple and minimalistic run on any device with x server and low memory usage created with only as god ass c only ,
  just a small contribution to open source community. 
