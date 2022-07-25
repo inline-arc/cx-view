@@ -21,5 +21,5 @@ The interface is simple - once you get used to it, the functions do exactly what
 
 ![image](https://user-images.githubusercontent.com/104635627/165967978-3f0311a9-ebca-458c-af9b-2bc415bb657d.png)
 
-# failure
+# Failure
 it dont works now now this has be put on shelf aside i thing , even tho there are better shit , you can check out sxiv which also based on x server and c but not ciaro lol. 
